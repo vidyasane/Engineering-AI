@@ -1,0 +1,39 @@
+{
+  "emp": [
+    {
+      "id": 1,
+      "fi": "tejitha",
+      "la": "kristem",
+      "email":"tejitha.k@ojas-it.com"
+    },
+    {
+      "id": 2,
+      "fi": "vidya",
+      "la": "sane",
+      "email":"vidya.sane@ojas-it.com"
+    },
+    {
+      "id": 3,
+      "fi": "lahari",
+      "la": "reddy",
+      "email":"lahari.redddy@ojas-it.com"
+    },
+    {
+      "id": 4,
+      "fi": "siva",
+      "la": "jyothi",
+      "email":"siva.jyothi@ojas-it.com"
+    }
+
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
